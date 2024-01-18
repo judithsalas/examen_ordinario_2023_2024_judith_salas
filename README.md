@@ -1,1 +1,2 @@
-# examen_ordinario_2023_2024_judith_salas
+### Ejercicio 1
+Su descripción se podrá encontrar de forma mas detallada en la rama principal (main)
