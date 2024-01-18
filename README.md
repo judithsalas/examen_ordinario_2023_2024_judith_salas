@@ -11,7 +11,7 @@ La función **generar_piramide** toma un número entero n como entrada y utiliza
 
 La función **main** es el punto de entrada del programa, donde se solicita al usuario ingresar un número entero mayor o igual a 1. Se utiliza un bucle **while** para asegurar que la entrada sea válida. Después de recibir el número, se llama a **generar_piramide** con el valor ingresado para crear y mostrar la pirámide en la consola.
 
-### Ejercicio 2.
+### Ejercicio 2.1
 El código consta de tres archivos: **Planetas.py**, **EstrellaDeLaMuerte.py**, y el script principal **main.py**. 
 
 En **Planetas.py**, se define un enumerado Clasificacion para asignar números a los planetas. La clase base Planeta y sus subclases (PlanetaConcordia, PlanetaIlum, PlanetaKamino) representan planetas con atributos como nombre, volumen y clasificación. 
@@ -20,7 +20,7 @@ En **EstrellaDeLaMuerte.py**, la clase EstrellaDeLaMuerte tiene un atributo para
 
 El script principal **main.py** importa las clases y crea instancias de planetas y la Estrella de la Muerte, llamando al método destruir_planeta para cada planeta. Este diseño modular y orientado a objetos facilita la comprensión y extensión del sistema, permitiendo simular la destrucción de planetas por parte de la Estrella de la Muerte.
 
-### Ejercicio 3.
+### Ejercicio 2.2
 
 El archivo **Naves.py** define dos subclases de la clase **EstrellaDeLaMuerte** llamadas **NavePequeña** y **NaveGrande**, cada una representando naves aliadas con sus propios nombres y puntos de vida. 
 
