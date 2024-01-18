@@ -1,4 +1,3 @@
-Rama-1
 ### Ejercicio 1.
 El código de la pirámide consta de dos funciones principales:
 
