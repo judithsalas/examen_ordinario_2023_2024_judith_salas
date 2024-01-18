@@ -1,3 +1,9 @@
+'''
+En main.py, crea instancias de la Estrella de la Muerte, una NavePequena, y una NaveGrande. 
+Llama a los métodos correspondientes para que la Estrella de la Muerte ataque a sus naves aliadas y 
+muestra los mensajes en la terminal.
+'''
+
 from Naves import NavePequeña, NaveGrande
 from EstrellaDeLaMuerte import EstrellaDeLaMuerte
 
