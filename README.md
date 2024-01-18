@@ -24,7 +24,7 @@ El script principal **main.py** importa las clases y crea instancias de planetas
 
 El archivo **Naves.py** define dos subclases de la clase **EstrellaDeLaMuerte** llamadas **NavePequeña** y **NaveGrande**, cada una representando naves aliadas con sus propios nombres y puntos de vida. 
 
-En **EstrellaDeLaMuerte.py**, la clase EstrellaDeLaMuerte es modificada para incluir métodos que permiten a la estación espacial atacar naves aliadas y verificar si puede destruirlas. 
+En **EstrellaDeLaMuerte2.py**, la clase EstrellaDeLaMuerte es modificada para incluir métodos que permiten a la estación espacial atacar naves aliadas y verificar si puede destruirlas. 
 
-El script principal **main.py** crea instancias de la Estrella de la Muerte, una NavePequeña y una NaveGrande, y ejecuta los métodos correspondientes para simular ataques y mostrar mensajes en la terminal. Este diseño facilita la interacción entre objetos en el espacio interestelar, proporcionando una estructura modular y orientada a objetos para representar diferentes entidades y sus relaciones.
+El script principal **main2.py** crea instancias de la Estrella de la Muerte, una NavePequeña y una NaveGrande, y ejecuta los métodos correspondientes para simular ataques y mostrar mensajes en la terminal. Este diseño facilita la interacción entre objetos en el espacio interestelar, proporcionando una estructura modular y orientada a objetos para representar diferentes entidades y sus relaciones.
 
